@@ -1,5 +1,7 @@
 # nuxt-image-test
 
+## Node.js version 20.0.0 recommended
+
 ## Build Setup
 
 ```bash
